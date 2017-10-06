@@ -1,0 +1,4 @@
+ro.build.product=msm8937_64
+ro.product.device=ASUS_X00IDB
+ro.product.name=OPEN_Phone
+ro.build.asus.sku=WW
